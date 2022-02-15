@@ -1,5 +1,8 @@
 ### База IMDB
 
+Приезентация https://docs.google.com/presentation/d/1GbOHNmpGFhYNW1bu_xrCiCjKJCTqeH0lVKSIEjJTA18/edit#slide=id.g11447035980_0_20
+-
+
 Предсказывать оценку по всему, что есть
 - Катя и Настя
 
